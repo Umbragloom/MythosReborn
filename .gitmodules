@@ -1,0 +1,3 @@
+[submodule "mythosreborn/themes/hello-friend"]
+	path = mythosreborn/themes/hello-friend
+	url = https://github.com/panr/hugo-theme-hello-friend.git
