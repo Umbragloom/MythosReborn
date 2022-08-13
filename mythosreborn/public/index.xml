@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello Friend</title>
+    
+    
+    
+    <link>/</link>
+    <description>Recent content on Hello Friend</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Hi there # Let me introduce you to myself: I am Josh Mathie, I have been a lover of all types of table top games, board games, and fantasy! I decided to try designing a board game and this is my design website for it. Here I will update information on the concepts and design process of my game.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
