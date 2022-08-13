@@ -18,7 +18,7 @@ paginate = 5
   showReadingTime = false
 
   # Add last modified date
-  lastModDisplay = "[modified]"
+  lastModDisplay = "[Modified]"
 
   # Show table of contents at the top of your posts (defaults to false)
   # Alternatively, add this param to post front matter for specific posts
