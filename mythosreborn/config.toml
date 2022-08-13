@@ -63,3 +63,10 @@ paginate = 5
         identifier = "showcase"
         name = "Showcase"
         url = "/showcase"
+[[languages.en.menu.main]]
+        identifier = "myBlog"
+        name = "My Blog"
+        url = "https://mathiejosh.xyz"
+        
+
+
