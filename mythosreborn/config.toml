@@ -1,4 +1,4 @@
-baseURL = "/timeline"
+baseURL = "/"
 title   = "Mythos Reborn"
 languageCode = "en-us"
 theme = "hugo-theme-timeline"
@@ -91,8 +91,8 @@ disableHugoGeneratorInject = false
     theme = "#252627"
 
   [params.logo]
-    logoText     = "$"
-    logoHomeLink = "/"
+    logoText     = ""
+    logoHomeLink = "/timeline"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
     # Set to a valid CSS color to change the cursor in the logo.
