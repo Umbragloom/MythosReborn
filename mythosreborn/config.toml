@@ -1,7 +1,7 @@
 baseURL = "/"
 title   = "Timeline"
 languageCode = "en-us"
-theme = "timeline"
+theme = "hugo-theme-timeline"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
