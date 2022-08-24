@@ -1,5 +1,5 @@
 baseURL = "/"
-title   = "Timeline"
+title   = "Mythos Reborn"
 languageCode = "en-us"
 theme = "hugo-theme-timeline"
 
@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "timeline"
+  name = "Joshua Mathie"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -54,11 +54,11 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Timeline hugo template for your work experience, researches, achievement and more"
-  keywords = "timeline hugo template"
+  description = "Design website for board game."
+  keywords = "board game table top"
   images = [""]
 
-  homeSubtitle = "timeline template for hugo"
+  homeSubtitle = "Main Website for Mythos Reborn."
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
@@ -91,7 +91,7 @@ disableHugoGeneratorInject = false
     theme = "#252627"
 
   [params.logo]
-    logoText     = "$"
+    logoText     = "#"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
@@ -146,7 +146,8 @@ disableHugoGeneratorInject = false
     name       = "Timeline"
     url        = "timeline/"
     weight     = 1
- 
+
+
 
 [markup]
   defaultMarkdownHandler = "goldmark"
