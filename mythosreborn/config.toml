@@ -6,7 +6,7 @@ theme = "hugo-theme-timeline"
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
-paginate  = 10
+paginate  = 6
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a MIT License." 
 
@@ -142,12 +142,15 @@ disableHugoGeneratorInject = false
 
 [menu]
   [[menu.main]]
-    identifier = "timeline"
-    name       = "Timeline"
+    identifier = "Build Blog"
+    name       = "Build Blog"
     url        = "timeline/"
     weight     = 1
 
-
+ [[menu.main]]
+    identifier = "blog"
+    name       = "Personal Blog"
+    url        = "https://mathiejosh.xyz"
 
 [markup]
   defaultMarkdownHandler = "goldmark"
