@@ -1,10 +1,19 @@
 ---
-title: "About Me"
-date: 2022-08-19T19:51:13-04:00
+author:
+  name: "Josh Mathie"
+date: 2022-08-18T18:35:10-04:00
+linktitle: About Me
+type:
+- post
+- posts
+title: About Me
+eventname: Designer
+eventlocation: Table Top Enthusiest  
+weight: 10
 draft: false
 ---
 
-Welcome to Mythos Reborn, A little bit about me before we get into what this
+A little bit about me before we get into what this
 even is. 
 
 My name is Joshua Mathie, I have loved tabletop, card, and board games since I was a kid,
@@ -17,7 +26,7 @@ Ever since I started playing boardgames and tabletop games, i've always waned
 to design a game. Something that i've always wanted in a game, but couldn't
 really get in just one game. 
 
-So this is my website for just that. Showing how i go about designing concepts
+So this is my website for just that. Showing how I go about designing concepts
 of the game, giving lore to the story, and making something fun for everyone!
 
 Hope you enjoy Mythos Reborn and one day get to play it!!

@@ -1,7 +1,16 @@
 ---
-title: "Mythos Reborn"
+author:
+  name: "Josh Mathie"
+linktitle: Mythos Reborn
+type:
+- post
+- posts
+title: Mythos Reborn
+eventname: Board Game
+eventlocation: Intial Design
+weight: 10
 date: 2022-08-19T19:51:13-04:00
-draft: true
+draft: false
 ---
 
 Welcome to Mythos Reborn, a tabletop god builder game. You play a cult leader
