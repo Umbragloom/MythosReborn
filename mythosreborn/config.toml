@@ -144,7 +144,7 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "timeline"
     name       = "Game Build Blog"
-    url        = "BuildBlog/"
+    url        = "buildblog/"
     weight     = 1
 
  [[menu.main]]
@@ -155,7 +155,7 @@ disableHugoGeneratorInject = false
  [[menu.main]]
     identifier = "release"
     name       = "Release Timeline"
-    url        = "ReleaseTimeline/"
+    url        = "releasetimeline/"
     
 [markup]
   defaultMarkdownHandler = "goldmark"
