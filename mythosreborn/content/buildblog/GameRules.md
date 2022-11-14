@@ -1,7 +1,7 @@
 ---
-title: "Mythos Reborn"
-date: 2022-08-19T19:51:13-04:00
-draft: true
+title: "Game Rules"
+date: 2022-08-30T19:51:13-04:00
+draft: false
 ---
 
 Welcome to Mythos Reborn, a tabletop god builder game. You play a cult leader
