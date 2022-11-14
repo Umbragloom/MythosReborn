@@ -131,19 +131,19 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.en]
-    subtitle  = "Timeline"
+    subtitle  = "Build Blog"
     weight    = 1
     copyright = ''
 
   [languages.fr]
-    subtitle  = "Timeline"
+    subtitle  = "Build Blog"
     weight    = 2
     copyright = '<a href="https://github.com/s4n7h0/hugo-theme-timeline/blob/main/LICENSE" target="_blank" rel="noopener">MIT</a>'
 
 [menu]
   [[menu.main]]
-    identifier = "Build Blog"
-    name       = "Build Blog"
+    identifier = "timeline"
+    name       = "Game Build Blog"
     url        = "timeline/"
     weight     = 1
 
@@ -151,6 +151,11 @@ disableHugoGeneratorInject = false
     identifier = "blog"
     name       = "Personal Blog"
     url        = "https://mathiejosh.xyz"
+
+ [[menu.main]]
+    identifier = "release"
+    name       = "Release Timeline"
+    url        = "timeline2/"
 
 [markup]
   defaultMarkdownHandler = "goldmark"
