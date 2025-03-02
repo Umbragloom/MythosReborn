@@ -5,6 +5,7 @@ linktitle: Mythos Reborn
 type:
 - post
 - posts
+- game design
 title: Mythos Reborn
 eventname: Board Game
 eventlocation: Intial Design
